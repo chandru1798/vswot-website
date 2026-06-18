@@ -1,0 +1,14 @@
+{
+  "name": "Vswot Digital Marketing Agency",
+  "short_name": "Vswot",
+  "description": "Premium digital marketing agency — SEO, performance marketing, web development & more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0c14",
+  "theme_color": "#7c5ff2",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
